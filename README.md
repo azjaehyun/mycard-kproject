@@ -31,7 +31,7 @@ mycard-kproject/
 ## 🛠️ 기술 스택
 
 - 추가 예정
--- 
+
 ## 📝 라이선스
 
 이 프로젝트는 MIT 라이선스를 따릅니다.
@@ -39,6 +39,7 @@ mycard-kproject/
 ## 👤 작성자
 
 - **azjaehyun** - [GitHub](https://github.com/azjaehyun)
+- **양재현**
 
 ---
 
